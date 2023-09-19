@@ -1,0 +1,9 @@
+target/
+guest_ticket/
+night_ticket/
+tazugane/
+email/
+add/
+rust.zip
+results.csv
+main.py
